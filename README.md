@@ -49,6 +49,9 @@ This project provides a comprehensive checklist tool for mechanical design tasks
     - The tool will guide you through each checklist item, allowing you to verify each aspect of your mechanical design.
     - Follow the on-screen instructions to check each item in your design.
 
+  [kenzu](https://github.com/Chung-hyo-sik/AutoCAD-Checklist-Tool-for-Mechanical-Design--A-Visual-Studio-Project/assets/77538630/7a8a5070-4a97-44de-af4b-46479532ecfd)
+
+
 ## Contributing
 
 We welcome contributions to improve this project. If you have additional checklist items or suggestions, please leave comments. We are happy to update the checklist based on user feedback.
