@@ -62,3 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 By using this tool, mechanical designers can enhance the accuracy and efficiency of their AutoCAD projects, ensuring high-quality outcomes in their work.
 
 ---
+**<span style="color: red;">Feedback is greatly appreciated! If you have any suggestions or would like to add or change checklist items, please leave a comment with the desired items, and we will update the checklist accordingly.</span>**
