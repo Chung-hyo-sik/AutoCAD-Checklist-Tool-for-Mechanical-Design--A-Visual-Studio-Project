@@ -53,9 +53,6 @@ This project provides a comprehensive checklist tool for mechanical design tasks
 
 We welcome contributions to improve this project. If you have additional checklist items or suggestions, please leave comments. We are happy to update the checklist based on user feedback.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
